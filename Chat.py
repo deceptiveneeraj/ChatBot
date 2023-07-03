@@ -1,8 +1,8 @@
 import random
 import webbrowser
-import wikipedia
-import pyjokes
-from pywikihow import search_wikihow
+import wikipedia                                    # pip install wikipedia
+import pyjokes                                      # pip install pyjokes
+from pywikihow import search_wikihow                # pip install pywikihow
 
 # print("Welcome to chat me.")
 # print("")
